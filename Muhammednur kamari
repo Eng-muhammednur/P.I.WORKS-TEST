@@ -1,0 +1,18 @@
+### new user
+<background-color="grey">
+#### username:
+<input type="text">
+#### Display Name:
+<input type="text">
+#### Phone:
+<input placholder="phone",type="text">
+#### Email:
+<input type="email">
+#### User Roles:
+<select>
+<option> Guest</option>
+<option> Admin</option>
+<option> Super Admin</option>
+</select>
+#### Enable:
+<input type="Check box">
